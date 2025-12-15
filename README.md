@@ -3,6 +3,7 @@ This project is a joint list and documentation of employees salary. The data des
 
 <img width="1853" height="746" alt="Dasboard for Employees salary" src="https://github.com/user-attachments/assets/cd104155-0e5e-4f1a-bcdb-b166756bf0d1" />
 
+
 Introduction:
 
 Every employee expects a salary as a reward for his /her job and services. Hence, the reason for this analysis is to carefully understand the structure and standard of paying employees in various job titles.
